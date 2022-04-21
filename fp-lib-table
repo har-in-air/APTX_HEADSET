@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "00_hari")(type "KiCad")(uri "${KIPRJMOD}/libraries/hari.pretty")(options "")(descr ""))
+)
